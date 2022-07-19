@@ -1,0 +1,16 @@
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.csproj.AssemblyReference.cache
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfo.cs
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.exe
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.deps.json
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.json
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.dev.json
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.dll
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\ref\CarDealership.dll
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\bin\Debug\net5.0\CarDealership.pdb
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.dll
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\ref\CarDealership.dll
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.pdb
+C:\Users\sii92\Documents\Projects\Epicodus\C#\car-dealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
