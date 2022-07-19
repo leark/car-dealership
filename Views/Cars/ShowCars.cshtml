@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Car Dealership</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+
+<body>
+  @using Dealership.Models;
+
+  <h3>These are all the cars!</h3>
+
+  @if (Model.Count == 0)
+  {
+    <p>There are no items in the list.</p>
+  }
+  @foreach (Car car in Model)
+  {
+    <ul>
+      <li>@car.MakeModel</li>
+      <ul>
+        <li>$@car.Price</li>
+        <li>@car.Miles miles</li>
+      </ul>
+    </ul>
+  }
+  <a href="/cars/new">Add More Cars</a>
+  <a href="/">Back to Home</a>
+</body>
+
+</html>
